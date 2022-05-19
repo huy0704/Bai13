@@ -1,0 +1,16 @@
+#sv1
+name:Huy
+old:19
+mark:8
+#tc1
+name:Huynh
+old:25
+salary:9
+#sv2
+name:Luom
+old:30
+mark:7
+#tc2
+name:Minh
+old:22
+salary:7

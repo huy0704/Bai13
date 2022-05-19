@@ -1,0 +1,20 @@
+#sv1
+name:anh
+old:10
+mark:9
+#tc1
+name:Ron
+old:10
+salary:8
+#sv2
+name:Tuyen
+old:10
+mark:8
+#tc2
+name:dinh quy
+old:10
+salary:9
+#sv3
+name:xuan quy
+old:10
+mark:8
