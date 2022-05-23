@@ -17,6 +17,6 @@ public class Student extends Person{
 	}
 	@Override
 	public String toString() {
-		return String.format("name:%s - mark:%.2f", name, mark);
+		return String.format("name:%s - old:%d - mark:%.2f", name,old, mark);
 	}
 }
